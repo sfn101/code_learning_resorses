@@ -12,8 +12,8 @@ This repository was created by **Soufiane Amabraa** on **September 30, 2025**, w
 
 Currently, the collection is focused on foundational languages. Click on a link below to view the curated list of resources for that topic:
 
-* [**JavaScript Learning Resources**](JavaScript%20Learning%20Resources.md)
-* [**Python Learning Resources**](Python%20Learning%20Resources.md)
+* [**JavaScript Learning Resources**](JavaScript_Learning_Resources.md)
+* [**Python Learning Resources**](Python_Learning_Resources.md)
 
 ---
 
