@@ -44,5 +44,14 @@ Organized by skill level from beginner to advanced, including guidance on how to
 - Link: https://github.com/practical-tutorials/project-based-learning
 - Guidance: Tackle real-world projects to apply advanced JavaScript concepts in practical scenarios.
 
+## Documentation
+
+### MDN
+- link: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- Guidance: optimal documentation, yet technical.
+
+### 
+- link: https://devdocs.io/javascript/
+- Guidance: Documentation work offline.
 ---
 
